@@ -15,7 +15,7 @@
             } else {
                 var judge = "pc";
             }
-            alert(judge);
+            
             return judge;
         }
         var judge = browserRedirect();
