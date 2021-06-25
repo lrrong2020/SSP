@@ -1,0 +1,185 @@
+<svg width="760.6" height="568.9" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0 {
+            fill: #A7A9AB;
+        }
+
+        .st1 {
+            fill: #FFFFFF;
+        }
+
+        .st2 {
+            fill: #626366;
+        }
+
+        .st3 {
+            fill: #62ABF4;
+        }
+
+        .st4 {
+            fill: #66CC66;
+        }
+
+        .st5 {
+            fill: #F94144
+        }</style>
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="762.6" height="570.9" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path class="st0" d="m646.4,491.5l77.6,-34.1l4.7,-2.3l4.6,-2.9l4.3,-3.1l4,-3.6l3.6,-3.8l3.4,-4.2l2.9,-4.4l2.5,-4.7l2.2,-4.9l1.7,-5l1.2,-5.2l0.7,-5.3l0.2,-5.3l-0.1,-5.4l-0.6,-5.3l-1.2,-5.2l-3,-11.3l-78.5,-315.2l-48,0l0,-23.9l-108,0l0.1,-14l-128.7,0l0,14.6l-44.4,0l0.1,-14.6l-277.6,0l0,-2.2l-36,0l-3.8,0.2l-3.8,0.6l-3.6,1.2l-3.5,1.6l-3.4,1.9l-3,2.4l-2.6,2.8l-2.4,3l-2,3.2l-1.6,3.5l-1.1,3.7l-0.7,3.7l-0.2,3.8l0,58.6l29.3,0l0,109.1l445.5,0l0,167.1l-448.3,0l0,181.1l558.7,0l0,-53.6l41.8,0l0,-22.8l17,0.2z" id="svg_1"/>
+  <rect x="31.6" y="80.6" class="st1" width="39.4" height="39" id="svg_2"/>
+  <rect x="31.5" y="61" class="st2" width="39.5" height="17.9" id="svg_3"/>
+  <rect x="486.9" y="136.3" class="st3" width="35.5" height="17.3" id="svg_4"/>
+  <rect x="497.4" y="156.2" width="1.7" height="21.1" id="svg_5"/>
+  <rect x="494" y="156.2" width="1.7" height="21.1" id="svg_6"/>
+  <rect x="490.6" y="156.2" width="1.7" height="21.1" id="svg_7"/>
+  <rect x="487.2" y="156.2" width="1.7" height="21.1" id="svg_8"/>
+  <rect x="500.8" y="156.2" width="1.7" height="21.1" id="svg_9"/>
+  <rect x="504.2" y="156.2" width="1.7" height="21.1" id="svg_10"/>
+  <rect x="507.6" y="156.2" width="1.7" height="21.1" id="svg_11"/>
+  <rect x="511" y="156.2" width="1.7" height="21.1" id="svg_12"/>
+  <rect x="514.4" y="156.2" width="1.7" height="21.1" id="svg_13"/>
+  <rect x="517.8" y="156.2" width="1.7" height="21.1" id="svg_14"/>
+  <rect x="521.2" y="156.2" width="1.7" height="21.1" id="svg_15"/>
+  <rect x="31.5" y="52.4" class="st3" width="24.1" height="7.1" id="svg_16"/>
+  <polygon class="st2" points="49.899993896484375,37.899993896484375 49.899993896484375,50.899993896484375 56.79998779296875,50.899993896484375 56.79998779296875,59.399993896484375 72.60000610351562,59.399993896484375 72.60000610351562,117.39999389648438 86.39999389648438,117.39999389648438 86.39999389648438,110.39999389648438 101.60000610351562,110.39999389648438 101.60000610351562,117.39999389648438 114.39999389648438,117.39999389648438 114.39999389648438,37.899993896484375 " id="svg_17"/>
+  <polygon class="st2" points="155.60000610351562,37.899993896484375 136,37.899993896484375 129,37.899993896484375 115.79998779296875,37.899993896484375 115.79998779296875,115.19999694824219 136,115.19999694824219 136,110.39999389648438 155.60000610351562,110.39999389648438 " id="svg_18"/>
+  <polygon class="st2" points="241,52.899993896484375 158.29998779296875,52.899993896484375 158.29998779296875,110.39999389648438 175.70001220703125,110.39999389648438 175.70001220703125,115.39999389648438 231.10000610351562,115.39999389648438 231.10000610351562,110.39999389648438 241,110.39999389648438 " id="svg_19"/>
+  <polygon class="st2" points="326.5,52.899993896484375 243.79998779296875,52.899993896484375 243.79998779296875,110.39999389648438 254.70001220703125,110.39999389648438 254.70001220703125,115.39999389648438 315.5999755859375,115.39999389648438 315.5999755859375,110.39999389648438 326.5,110.39999389648438 " id="svg_20"/>
+  <polygon class="st5" points="411.9000244140625,52.899993896484375 329.20001220703125,52.899993896484375 329.20001220703125,110.39999389648438 340.0999755859375,110.39999389648438 340.0999755859375,115.39999389648438 401.0999755859375,115.39999389648438 401.0999755859375,110.39999389648438 411.9000244140625,110.39999389648438 " id="svg_21"/>
+  <polygon class="st2" points="498.5999755859375,52.899993896484375 415.9000244140625,52.899993896484375 415.9000244140625,110.39999389648438 426.79998779296875,110.39999389648438 426.79998779296875,115.39999389648438 487.79998779296875,115.39999389648438 487.79998779296875,110.39999389648438 498.5999755859375,110.39999389648438 " id="svg_22"/>
+  <polygon class="st2" points="582.7999877929688,52.899993896484375 501.79998779296875,52.899993896484375 501.79998779296875,110.39999389648438 511.9000244140625,110.39999389648438 511.9000244140625,115.39999389648438 572.9000244140625,115.39999389648438 572.9000244140625,110.39999389648438 582.7999877929688,110.39999389648438 " id="svg_23"/>
+  <rect x="586.9" y="36.3" class="st2" width="41.6" height="21" id="svg_24"/>
+  <rect x="597.3" y="59" class="st2" width="31.2" height="19.6" id="svg_25"/>
+  <rect x="597.3" y="80.7" class="st2" width="31.2" height="35.9" id="svg_26"/>
+  <rect x="590.1" y="138.8" class="st2" width="14.2" height="37.2" id="svg_27"/>
+  <rect x="606.9" y="138.8" class="st2" width="19.4" height="37.2" id="svg_28"/>
+  <rect x="459.4" y="145" class="st2" width="25" height="31.1" id="svg_29"/>
+  <polygon class="st2" points="427.79998779296875,138.89999389648438 427.79998779296875,145 416.0999755859375,145 416.0999755859375,176.10000610351562 457.5,176.10000610351562 457.5,138.89999389648438 " id="svg_30"/>
+  <polygon class="st2" points="339.4000244140625,138.89999389648438 339.4000244140625,145 328.5999755859375,145 328.5999755859375,176.10000610351562 369.20001220703125,176.10000610351562 369.20001220703125,138.89999389648438 " id="svg_31"/>
+  <polygon class="st2" points="401,138.89999389648438 401,145 411.79998779296875,145 411.79998779296875,176.10000610351562 371.20001220703125,176.10000610351562 371.20001220703125,138.89999389648438 " id="svg_32"/>
+  <polygon class="st2" points="254.20001220703125,138.89999389648438 254.20001220703125,145 243.39999389648438,145 243.39999389648438,176.10000610351562 283.9000244140625,176.10000610351562 283.9000244140625,138.89999389648438 " id="svg_33"/>
+  <polygon class="st2" points="315.79998779296875,138.89999389648438 315.79998779296875,145 326.5,145 326.5,176.10000610351562 286,176.10000610351562 286,138.89999389648438 " id="svg_34"/>
+  <rect x="158.6" y="160" class="st3" width="35.5" height="16.2" id="svg_35"/>
+  <rect x="158.6" y="178.4" class="st3" width="35.5" height="18.5" id="svg_36"/>
+  <rect x="174.3" y="136.3" width="1.7" height="21.1" id="svg_37"/>
+  <rect x="170.9" y="136.3" width="1.7" height="21.1" id="svg_38"/>
+  <rect x="167.5" y="136.3" width="1.7" height="21.1" id="svg_39"/>
+  <rect x="164.1" y="136.3" width="1.7" height="21.1" id="svg_40"/>
+  <rect x="177.7" y="136.3" width="1.7" height="21.1" id="svg_41"/>
+  <rect x="181.1" y="136.3" width="1.7" height="21.1" id="svg_42"/>
+  <rect x="184.5" y="136.3" width="1.7" height="21.1" id="svg_43"/>
+  <rect x="187.9" y="136.3" width="1.7" height="21.1" id="svg_44"/>
+  <rect x="191.3" y="136.3" width="1.7" height="21.1" id="svg_45"/>
+  <rect x="194.7" y="136.3" width="1.7" height="21.1" id="svg_46"/>
+  <rect x="195.2" y="185.2" class="st3" width="11.8" height="11.9" id="svg_47"/>
+  <rect x="208.3" y="185.2" class="st3" width="11.4" height="11.9" id="svg_48"/>
+  <polygon class="st2" points="144.79998779296875,144.60000610351562 144.79998779296875,142.3000030517578 126,142.3000030517578 126,144.60000610351562 115.79998779296875,144.60000610351562 115.79998779296875,219.60000610351562 155.20001220703125,219.60000610351562 155.20001220703125,144.60000610351562 " id="svg_49"/>
+  <polygon class="st2" points="102.5,144.60000610351562 102.5,142.3000030517578 83.70001220703125,142.3000030517578 83.70001220703125,144.60000610351562 73.5,144.60000610351562 73.5,219.60000610351562 112.89999389648438,219.60000610351562 112.89999389648438,144.60000610351562 " id="svg_50"/>
+  <rect x="31.6" y="157" class="st2" width="39.1" height="62.6" id="svg_51"/>
+  <polygon class="st2" points="564.7999877929688,199.60000610351562 500.70001220703125,199.60000610351562 500.70001220703125,344.6000061035156 541.2999877929688,344.6000061035156 541.2999877929688,258.20001220703125 564.7999877929688,258.20001220703125 " id="svg_52"/>
+  <rect x="543.9" y="261.4" class="st2" width="20.9" height="20.3" id="svg_53"/>
+  <rect x="544" y="283.5" class="st2" width="20.8" height="19" id="svg_54"/>
+  <rect x="544" y="304.2" class="st3" width="20.8" height="13.6" id="svg_55"/>
+  <rect x="544" y="319.9" class="st3" width="20.5" height="12.8" id="svg_56"/>
+  <rect x="544" y="335.2" class="st3" width="7.9" height="11" id="svg_57"/>
+  <rect x="552.7" y="335.2" class="st3" width="12.1" height="10.9" id="svg_58"/>
+  <rect x="529.2" y="387.6" class="st2" width="12.5" height="19.9" id="svg_59"/>
+  <rect x="542.9" y="395.2" class="st2" width="27" height="12.2" id="svg_60"/>
+  <rect x="571.1" y="387.6" class="st2" width="12.1" height="19.9" id="svg_61"/>
+  <rect x="584.5" y="395.2" class="st2" width="20.8" height="12.2" id="svg_62"/>
+  <rect x="613.2" y="387.6" class="st2" width="13.1" height="19.9" id="svg_63"/>
+  <rect x="529.2" y="408.7" class="st2" width="97.1" height="98.9" id="svg_64"/>
+  <polygon class="st2" points="526.9000244140625,514.2999877929688 526.9000244140625,507.79998779296875 517.4000244140625,507.79998779296875 517.4000244140625,504.20001220703125 486.70001220703125,504.20001220703125 486.70001220703125,501.29998779296875 472.20001220703125,501.29998779296875 472.20001220703125,507.79998779296875 459.70001220703125,507.79998779296875 459.70001220703125,567.9000244140625 587.5999755859375,567.9000244140625 587.5999755859375,514.2999877929688 " id="svg_65"/>
+  <rect x="436.3" y="528" class="st2" width="20.9" height="18" id="svg_66"/>
+  <rect x="436.8" y="548" class="st2" width="20.5" height="19.9" id="svg_67"/>
+  <polygon class="st2" points="458,494.70001220703125 445.79998779296875,494.70001220703125 445.79998779296875,488.5999755859375 431.70001220703125,488.5999755859375 431.70001220703125,490.79998779296875 384.0999755859375,490.79998779296875 384.0999755859375,494.70001220703125 373.79998779296875,494.70001220703125 373.79998779296875,567.5999755859375 434.5999755859375,567.5999755859375 434.5999755859375,526.2999877929688 458,526.2999877929688 " id="svg_68"/>
+  <polygon class="st2" points="358.5,494.70001220703125 358.5,488.5999755859375 341.5,488.5999755859375 341.5,491 296,491 296,494.70001220703125 285.9000244140625,494.70001220703125 285.9000244140625,568.2999877929688 368.5,568.2999877929688 368.5,494.70001220703125 " id="svg_69"/>
+  <rect x="265.5" y="543.5" class="st2" width="17.4" height="24.4" id="svg_70"/>
+  <polygon class="st2" points="283.70001220703125,494.70001220703125 273.3999938964844,494.70001220703125 273.3999938964844,488.5999755859375 259.3999938964844,488.5999755859375 259.3999938964844,490.79998779296875 210.89999389648438,490.79998779296875 210.89999389648438,494.70001220703125 200.60000610351562,494.70001220703125 200.60000610351562,567.5999755859375 263.8999938964844,567.5999755859375 263.8999938964844,541.9000244140625 283.70001220703125,541.9000244140625 " id="svg_71"/>
+  <polygon class="st2" points="188.70001220703125,488.5999755859375 158.5,488.5999755859375 158.5,567.9000244140625 198.39999389648438,567.9000244140625 198.39999389648438,494.9000244140625 188.70001220703125,494.9000244140625 " id="svg_72"/>
+  <polygon class="st2" points="145.60000610351562,507.4000244140625 145.60000610351562,501 87.10000610351562,501 87.10000610351562,507.4000244140625 72.89999389648438,507.4000244140625 72.89999389648438,567.5999755859375 156.10000610351562,567.5999755859375 156.10000610351562,507.4000244140625 " id="svg_73"/>
+  <rect x="72.7" y="388.8" class="st2" width="20.2" height="19.6" id="svg_74"/>
+  <rect x="94.2" y="389" class="st2" width="32.3" height="19.3" id="svg_75"/>
+  <polygon class="st2" points="127.60000610351562,389 127.60000610351562,409.5 114.29998779296875,409.5 114.29998779296875,424.9000244140625 156.20001220703125,424.9000244140625 156.20001220703125,389 " id="svg_76"/>
+  <polygon class="st2" points="72.70001220703125,409.5999755859375 72.70001220703125,448.79998779296875 86.70001220703125,448.79998779296875 86.70001220703125,463.5 112.79998779296875,463.5 112.79998779296875,409.5999755859375 " id="svg_77"/>
+  <polygon class="st2" points="156.29998779296875,427 114.29998779296875,427 114.39999389648438,463.5 145.89999389648438,463.5 145.89999389648438,448.4000244140625 156.29998779296875,448.4000244140625 " id="svg_78"/>
+  <rect x="158.8" y="417" class="st2" width="17.6" height="10.2" id="svg_79"/>
+  <rect x="213.4" y="413.5" class="st2" width="16" height="13.6" id="svg_80"/>
+  <rect x="201.4" y="388.3" class="st2" width="19.4" height="16.1" id="svg_81"/>
+  <rect x="222.7" y="388.3" class="st2" width="18.4" height="16.1" id="svg_82"/>
+  <polygon class="st2" points="199.60000610351562,405.70001220703125 199.60000610351562,392.1000061035156 198.20001220703125,392.1000061035156 198.20001220703125,388.6000061035156 158.79998779296875,388.6000061035156 158.79998779296875,415.20001220703125 177.60000610351562,415.20001220703125 177.60000610351562,427.4000244140625 212.39999389648438,427.4000244140625 212.39999389648438,412.29998779296875 230.39999389648438,412.29998779296875 230.39999389648438,424 240.70001220703125,424 240.70001220703125,405.70001220703125 " id="svg_83"/>
+  <rect x="171" y="453.7" class="st3" width="35.5" height="17.3" id="svg_84"/>
+  <g id="svg_85">
+   <rect x="181" y="430.2" width="1.7" height="21.1" id="svg_86"/>
+   <rect x="177.6" y="430.2" width="1.7" height="21.1" id="svg_87"/>
+   <rect x="174.2" y="430.2" width="1.7" height="21.1" id="svg_88"/>
+   <rect x="170.8" y="430.2" width="1.7" height="21.1" id="svg_89"/>
+   <rect x="184.4" y="430.2" width="1.7" height="21.1" id="svg_90"/>
+   <rect x="187.8" y="430.2" width="1.7" height="21.1" id="svg_91"/>
+   <rect x="191.2" y="430.2" width="1.7" height="21.1" id="svg_92"/>
+   <rect x="194.6" y="430.2" width="1.7" height="21.1" id="svg_93"/>
+   <rect x="198" y="430.2" width="1.7" height="21.1" id="svg_94"/>
+   <rect x="201.4" y="430.2" width="1.7" height="21.1" id="svg_95"/>
+   <rect x="204.8" y="430.2" width="1.7" height="21.1" id="svg_96"/>
+  </g>
+  <polygon class="st3" points="261.70001220703125,388.29998779296875 242.79998779296875,388.29998779296875 242.79998779296875,429.9000244140625 250.89999389648438,429.9000244140625 250.89999389648438,416.0999755859375 261.70001220703125,416.0999755859375 " id="svg_97"/>
+  <polygon class="st3" points="264.6000061035156,388.29998779296875 283.5,388.29998779296875 283.5,429.9000244140625 275.3999938964844,429.9000244140625 275.3999938964844,416.0999755859375 264.6000061035156,416.0999755859375 " id="svg_98"/>
+  <rect x="252" y="417.2" class="st3" width="10.6" height="11.5" id="svg_99"/>
+  <rect x="263.6" y="417.2" class="st3" width="10.6" height="11.5" id="svg_100"/>
+  <polygon class="st2" points="368.79998779296875,388.6000061035156 286.4000244140625,388.6000061035156 286.4000244140625,460.79998779296875 297,460.79998779296875 297,463.5999755859375 341,463.5999755859375 341,467.4000244140625 358.5,467.4000244140625 358.5,460.79998779296875 368.79998779296875,460.79998779296875 " id="svg_101"/>
+  <polygon class="st2" points="374,388.6000061035156 374,460.29998779296875 385.20001220703125,460.29998779296875 385.20001220703125,466.9000244140625 413.5,466.9000244140625 413.5,460.29998779296875 413.5,456.4000244140625 413.5,388.6000061035156 " id="svg_102"/>
+  <rect x="416.1" y="453.3" class="st3" width="49.2" height="17.3" id="svg_103"/>
+  <g id="svg_104">
+   <rect x="426.2" y="430" width="1.7" height="21.1" id="svg_105"/>
+   <rect x="422.8" y="430" width="1.7" height="21.1" id="svg_106"/>
+   <rect x="419.4" y="430" width="1.7" height="21.1" id="svg_107"/>
+   <rect x="416" y="430" width="1.7" height="21.1" id="svg_108"/>
+   <rect x="429.6" y="430" width="1.7" height="21.1" id="svg_109"/>
+   <rect x="433" y="430" width="1.7" height="21.1" id="svg_110"/>
+   <rect x="436.4" y="430" width="1.7" height="21.1" id="svg_111"/>
+   <rect x="439.8" y="430" width="1.7" height="21.1" id="svg_112"/>
+   <rect x="443.2" y="430" width="1.7" height="21.1" id="svg_113"/>
+   <rect x="446.6" y="430" width="1.7" height="21.1" id="svg_114"/>
+   <rect x="450" y="430" width="1.7" height="21.1" id="svg_115"/>
+  </g>
+  <g id="Livello_2_1_">
+   <g id="Livello_2-2">
+    <path class="st4" d="m520.5,35.4l0.1,-14l-128.6,0l0,14.6l-44.4,0l0.1,-14.6l-277.7,0l0,-2.2l-36,0l-3.8,0.2l-3.8,0.6l-3.6,1.2l-3.5,1.6l-3.3,1.9l-3,2.4l-2.7,2.8l-2.4,3l-2,3.2l-1.6,3.5l-1,3.7l-0.8,3.7l-0.2,3.8l0,58.6l29.3,0l0,-58c0.4,-2.9 1.6,-5.7 3.4,-8c5.3,-6.7 13.8,-6.6 15,-6.5l105.7,0l0,15l431.2,0l0,-16.4l-66.4,-0.1z" id="svg_116"/>
+    <rect x="28.9" y="385.7" class="st4" width="43.9" height="181.1" id="svg_117"/>
+    <polygon class="st4" points="759.7999877929688,396.29998779296875 759.2000122070312,391 758,385.79998779296875 755,374.6000061035156 676.5,59.30000305175781 629.7999877929688,59.30000305175781 629.7999877929688,490.5 646.4000244140625,490.5 724,456.4000244140625 728.7000122070312,454.0999755859375 733.2999877929688,451.20001220703125 737.5999755859375,448.0999755859375 741.5999755859375,444.5 745.2000122070312,440.70001220703125 748.5,436.5 751.4000244140625,432 753.9000244140625,427.4000244140625 756.0999755859375,422.4000244140625 757.7999877929688,417.4000244140625 759,412.20001220703125 759.7000122070312,407 759.9000244140625,401.70001220703125 " id="svg_118"/>
+    <polygon class="st4" points="219.79998779296875,175.29998779296875 219.79998779296875,196.20001220703125 155.29998779296875,196.20001220703125 155.29998779296875,218.70001220703125 484.29998779296875,218.70001220703125 484.29998779296875,197.70001220703125 484.29998779296875,196.20001220703125 484.29998779296875,175.29998779296875 " id="svg_119"/>
+    <polygon class="st4" points="415.79998779296875,385.8999938964844 415.79998779296875,429.20001220703125 477,429.20001220703125 477,385.8999938964844 " id="svg_120"/>
+   </g>
+  </g>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="498.299999" y="541.4" id="svg_121" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Lab</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="397.299999" y="518.4" id="svg_122" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Lab</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="314.299999" y="518.4" id="svg_123" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">L3.1</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="227.299999" y="518.4" id="svg_124" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">L3.2</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="99.299999" y="536.4" id="svg_125" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Lab</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="310.299999" y="448.4" id="svg_126" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Lab</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="554.299999" y="431.4" id="svg_127" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C3.4</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="527.299999" y="78.4" id="svg_129" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">L3.5</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="350.299999" y="78.4" id="svg_131" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C3.7</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="117.299999" y="58.4" id="svg_134" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Lab</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="69.299999" y="58.4" id="svg_135" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Lab</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="32.299999" y="183.4" id="svg_136" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Lab</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="73.299999" y="168.4" id="svg_137" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C3.10</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="117.299999" y="168.4" id="svg_138" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C3.11</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="501.299999" y="223.4" id="svg_144" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Reception</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="505.299999" y="278.4" id="svg_145" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">Can</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="505.299999" y="290.4" id="svg_146" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">tee</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="505.299999" y="302.4" id="svg_147" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">n</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="243.299999" y="158.4" id="svg_148" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C3.12</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="286.299999" y="158.4" id="svg_151" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C3.13</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="328.299999" y="158.4" id="svg_152" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C3.14</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="371.299999" y="158.4" id="svg_153" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C3.15</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="416.299999" y="158.4" id="svg_154" font-size="15" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">C3.16</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="436.299999" y="78.4" id="svg_155" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">L3.6</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="267.299999" y="78.4" id="svg_156" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">L3.8</text>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="182.299999" y="78.4" id="svg_157" font-size="20" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">L3.9</text>
+ </g>
+</svg>
