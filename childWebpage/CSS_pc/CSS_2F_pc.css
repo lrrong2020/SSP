@@ -1,0 +1,13 @@
+img {
+  width: 60%;
+  float: left;
+}
+
+p {
+  font-weight: bold;
+  font-size: 30px;
+}
+div {
+  width: 40%;
+  float: right;
+}

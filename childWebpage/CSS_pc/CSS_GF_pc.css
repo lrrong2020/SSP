@@ -1,0 +1,14 @@
+img {
+  width: 60%;
+  float: left;
+}
+
+p {
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 1%;
+}
+div {
+  width: 40%;
+  float: right;
+}
