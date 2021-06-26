@@ -6,19 +6,29 @@
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=2.0" />
     <link href="CSS_pc/CSS_GF_pc.css" rel="stylesheet" type="text/css"/>
-    <script src="JS_childWEbPage/realScript.js" type="text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+	<script src="JS_childWebPage/realScript.js"></script>
 </head>
 
 <body>
     <img src="Svg Map/groundFloor.svg">
-<div>
-    <p id="C2_1"><span style="background-color: #f9414f;">&nbsp;&nbsp;&nbsp;</span>&nbsp;C2.1:<span id="C2_1_display">&nbsp;</span></p>
-    <p id="L2_2"><span style="background-color: #f9844a;">&nbsp;&nbsp;&nbsp;</span>&nbsp;L2.2:<span id="L2_2_display">&nbsp;</span></p>
-    <p id="C2_5"><span style="background-color: #f9c74f;">&nbsp;&nbsp;&nbsp;</span>&nbsp;C2.5:<span id="C2_5_display">&nbsp;</span></p>
-    <p id="C2_6"><span style="background-color: #90be6d;">&nbsp;&nbsp;&nbsp;</span>&nbsp;C2.6:<span id="C2_6_display">&nbsp;</span></p>
-    <p id="C2_9"><span style="background-color: #43aa8b;">&nbsp;&nbsp;&nbsp;</span>&nbsp;C2.9:<span id="C2_9_display">&nbsp;</span></p>
-    <p id="C2_10"><span style="background-color: #306d88;">&nbsp;&nbsp;&nbsp;</span>&nbsp;C2.10:<span id="C2_10_display">&nbsp;</span></p>
-    <p id="C2_13"><span style="background-color: #79afc5;">&nbsp;&nbsp;&nbsp;</span>&nbsp;C2.13:<span id="C2_13_display">&nbsp;</span></p>
+		<div id="myModal" class="modal">
+		<!-- 弹窗内容 -->
+		<div class="modal-content">		 
+		<div class="modal-body">
+		<canvas id="myChart" width="50em" height="50em"></canvas>
+		<span id="loading">LOADING...</span>
+		</div>
+		</div>
+	    </div>
+<div id="wt">
+    <p id="C2_1" onclick="openwindow()"><span style="background-color: #f9414f;">&nbsp;&nbsp;&nbsp;</span>&nbsp;C2.1:<span id="camera2">&nbsp;</span></p>
+    <p id="L2_2"><span style="background-color: #f9844a;">&nbsp;&nbsp;&nbsp;</span>&nbsp;L2.2:</p>
+    <p id="C2_5" onclick="openwindow()"><span style="background-color: #f9c74f;">&nbsp;&nbsp;&nbsp;</span>&nbsp;C2.5:<span id="camera1">&nbsp;</span></p>
+    <p id="C2_6"><span style="background-color: #90be6d;">&nbsp;&nbsp;&nbsp;</span>&nbsp;C2.6:</p>
+    <p id="C2_9"><span style="background-color: #43aa8b;">&nbsp;&nbsp;&nbsp;</span>&nbsp;C2.9:</p>
+    <p id="C2_10"><span style="background-color: #306d88;">&nbsp;&nbsp;&nbsp;</span>&nbsp;C2.10:</p>
+    <p id="C2_13"><span style="background-color: #79afc5;">&nbsp;&nbsp;&nbsp;</span>&nbsp;C2.13:</p>
 </div>
 </body>
 
