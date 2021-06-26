@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<body>
+<html>
+<script src="http://apps.bdimg.com/libs/jquery/1.6.4/jquery.min.js"></script>
+    <head>
+        <style>
+            table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:nth-child(even){background-color: #f2f2f2;}
+
+table tr:hover {background-color: #ddd;}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+        </style>
+    </head>
+    <body>
+<script type="text/javascript">
+    function loadXMLDoc(dname)
+{
+    if (window.XMLHttpRequest)
+    {
+        xhttp=new XMLHttpRequest();
+    }
+    else
+    {
+        xhttp=new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    xhttp.open("GET",dname,false);
+    xhttp.send();
+    return xhttp.responseXML;
+}
+    xmlDoc=loadXMLDoc("timeTable.xml");
+    document.write("<table>");
+    var x=xmlDoc.getElementsByTagName("Evento");
+for (i=0;i<x.length;i++)
+  {
+  document.write("<tr><td>");
+  document.write(x[i].getElementsByTagName("Descrizione")[0].childNodes[0].nodeValue);
+  document.write("</td><td>");
+  document.write(x[i].getElementsByTagName("OraInizio")[0].childNodes[0].nodeValue+"--"+x[i].getElementsByTagName("OraFine")[0].childNodes[0].nodeValue);
+  document.write("</td><td>");
+  document.write(xmlDoc.getElementsByTagName("Codice")[i].childNodes[0].nodeValue);
+  document.write("</td></tr>");
+  }
+document.write("</table>");
+ 
+
+</script>
+    </body>
+</html>
+</body>
+</html>
