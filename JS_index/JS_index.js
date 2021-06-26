@@ -1,5 +1,7 @@
 
         /*There are for index.html */
+
+        /*This function is to know which style device that users use.*/
         function browserRedirect() {
             var sUserAgent = navigator.userAgent.toLowerCase();
             var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
@@ -15,7 +17,6 @@
             } else {
                 var judge = "pc";
             }
-            
             return judge;
         }
         var judge = browserRedirect();
@@ -58,4 +59,8 @@
                 document.getElementById('desdiv').innerHTML = "<iframe src='childWebpage/floor2_pc.html'" + "style='width: 100%;height: 1000px;'" + "></iframe>";
 
             }
+        
+        function click5() {
+            document.getElementById('desdiv').innerHTML = "<iframe src='xmlfile.timetable.html'" + "style='width: 100%;height:100%"+"></iframe>";
+        }
         }
