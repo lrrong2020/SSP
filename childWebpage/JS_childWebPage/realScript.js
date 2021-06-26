@@ -5,7 +5,7 @@ const SINGLE_SAMPLE_MAX = 2710
 const TS_CONVERTER_CONST = 1000
 const ONE_THOUSAND_MS = 1000
 const TWO_HOURS = 7200000
-const FIVE_MINUTE = 1
+const FIVE_MINUTE = 5
 const REAL_INTERVAL = ONE_THOUSAND_MS * FIVE_MINUTE
 
 var doubleCameraArr
@@ -87,22 +87,7 @@ fetch (doubleCameraData)
 .then(response => response.text())
 .then(result => doubleCameraArr = presentArray(result.split('\n').map(function (line){return line.split(',')})))
 
-/* For display time string
-	  for(var i = DOUBLE_SAMPLE_MIN;i < DOUBLE_SAMPLE_MAX;i++){
-		  var timestamp = parseInt(lines[i][0])
-		  var date = new Date(timestamp * TS_CONVERTER_CONST + TWO_HOURS)
-		  //console.log(date.getTime())
-		  var isoTime = date.toISOString()
-		  var isoYear = isoTime.slice(0,4)
-		  var isoMonth = isoTime.slice(5,7)
-		  var isoDay = isoTime.slice(8,10)
-		  var isoHour = isoTime.slice(11,13)
-		  var isoMinute = isoTime.slice(14,16)
-		  var isoSecond = isoTime.slice(17,19)		  
-		  console.log(isoTime)
-		  console.log(isoYear + "-" + isoMonth + "-" + isoDay + " " + isoHour + ":" + isoMinute + " " + isoSecond)
-	  }
-*/
+
 
 //convert timestamp to Italy time
 function timeConverter(arr, i){
@@ -165,9 +150,9 @@ setTimeout(function(){
 		myChart.destroy()
 		
 		
-		}, 8000)
+		}, 3000)
 		document.getElementById("loading").style.display = "none";
-		setTimeout(function(){document.getElementById("loading").style.display = "block";},8000)
+		setTimeout(function(){document.getElementById("loading").style.display = "block";},3000)
 
 }
 
