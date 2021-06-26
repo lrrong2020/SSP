@@ -59,8 +59,8 @@
                 document.getElementById('desdiv').innerHTML = "<iframe src='childWebpage/floor2_pc.html'" + "style='width: 100%;height: 1000px;'" + "></iframe>";
 
             }
-        
+        }
+
         function click5() {
             document.getElementById('desdiv').innerHTML = "<iframe src='childWebpage/xmlfile/timetable.html'" + "style='width: 100%;height:100%"+"></iframe>";
-        }
         }
