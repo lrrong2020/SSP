@@ -9,8 +9,7 @@ p {
   margin-top: 1%;
 }
 #wt {
-  width: 40%;
-  float: right;
+  clear: left;
 }
 /* 弹窗 (background) */
 .modal {
