@@ -61,6 +61,6 @@
             }
         
         function click5() {
-            document.getElementById('desdiv').innerHTML = "<iframe src='xmlfile.timetable.html'" + "style='width: 100%;height:100%"+"></iframe>";
+            document.getElementById('desdiv').innerHTML = "<iframe src='childWebpage/xmlfile/timetable.html'" + "style='width: 100%;height:100%"+"></iframe>";
         }
         }
