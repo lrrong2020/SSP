@@ -38,8 +38,8 @@ p {
   /*弹窗背景色设置*/
   background-color: #fefefe;
   margin: auto;
-  padding: 30em auto;
-  width: 30em;
+  padding: 20em auto;
+  width: 15em;
 
   -webkit-animation-name: animatetop;
   -webkit-animation-duration: 0.4s;
@@ -50,5 +50,5 @@ p {
 .modal-body {
   padding: 1em 1em;
   font-size: 18px;
-  height: 25em;
+  height: 15em;
 }
