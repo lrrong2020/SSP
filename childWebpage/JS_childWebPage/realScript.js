@@ -139,17 +139,14 @@ if(singleCounter <= SINGLE_SAMPLE_MAX){
 
 	if(singlePlotArr[0].length === 0){singlePlotArr[0] = [formatTime(lastTime),studentNumberFromSingle]}
 	else {appendArr([formatTime(lastTime), studentNumberFromSingle], singlePlotArr)}
-	document.getElementById('C2_5').innerHTML=studentNumberFromSingle
-	document.getElementById('C2_6').innerHTML=studentNumberFromSingle
-	document.getElementById('C2_10').innerHTML=studentNumberFromSingle
-	document.getElementById('C2_13').innerHTML=studentNumberFromSingle
+	document.getElementById('camera1').innerHTML=studentNumberFromSingle
 	plot(singlePlotArr)
 	
 	singleCounter = singleCounter + 1
 }
 }, REAL_INTERVAL)
 
-
+setTimeout(function(){
 //present double camera array
 var doubleCounter = DOUBLE_SAMPLE_MIN
 
@@ -162,10 +159,9 @@ if(doubleCounter <= DOUBLE_SAMPLE_MAX){
 	
 	if(doublePlotArr[0].length === 0){doublePlotArr[0] = [formatTime(lastTime),studentNumberFromDouble]}
 	else {appendArr([formatTime(lastTime), studentNumberFromDouble], doublePlotArr)}
-	document.getElementById('C2_1').innerHTML=studentNumberFromDouble
-	document.getElementById('L2_2').innerHTML=studentNumberFromDouble
-	document.getElementById('C2_9').innerHTML=studentNumberFromDouble
+	document.getElementById('camera2').innerHTML=studentNumberFromDouble
 	plot(doublePlotArr)
 
 	doubleCounter = doubleCounter + 2}
 }, REAL_INTERVAL)
+},1000)
