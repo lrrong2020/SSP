@@ -165,6 +165,7 @@ if(doubleCounter <= DOUBLE_SAMPLE_MAX){
 	document.getElementById('C2_1').innerHTML=studentNumberFromDouble
 	document.getElementById('L2_2').innerHTML=studentNumberFromDouble
 	document.getElementById('C2_9').innerHTML=studentNumberFromDouble
+	console.log(formatTime(lastTime))
 	plot(doublePlotArr)
 
 	doubleCounter = doubleCounter + 2}
