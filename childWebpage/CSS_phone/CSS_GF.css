@@ -39,7 +39,7 @@ p {
   background-color: #fefefe;
   margin: auto;
   padding: 20em auto;
-  width: 15em;
+  width: 18em;
 
   -webkit-animation-name: animatetop;
   -webkit-animation-duration: 0.4s;
@@ -50,5 +50,5 @@ p {
 .modal-body {
   padding: 1em 1em;
   font-size: 18px;
-  height: 18em;
+  height: 15em;
 }
