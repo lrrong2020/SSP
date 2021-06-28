@@ -170,7 +170,7 @@ function plotD(arr){
 			scales: {
 				y: {	
 					suggestedMin: 0,
-					suggestedMax: 50,
+					suggestedMax: 20,
 					beginAtZero: true
 				}
 			}
