@@ -95,7 +95,7 @@ function timeConverter(arr, i){
 
 //format time string
 function formatTime(time){
-	return (time.slice(11,13) + ":" + time.slice(14,16) + ":" + time.slice(17,19))
+	return (time.slice(11,13) + ":" + time.slice(14,16))
 }
 
 
