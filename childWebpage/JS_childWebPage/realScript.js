@@ -139,10 +139,8 @@ if(singleCounter <= SINGLE_SAMPLE_MAX){
 
 	if(singlePlotArr[0].length === 0){singlePlotArr[0] = [formatTime(lastTime),studentNumberFromSingle]}
 	else {appendArr([formatTime(lastTime), studentNumberFromSingle], singlePlotArr)}
-	plot(singlePlotArr)
-	if (studentNumberFromSingle > 0){
 	document.getElementById('camera1').innerHTML=studentNumberFromSingle
-	}
+	plot(singlePlotArr)
 	
 	singleCounter = singleCounter + 1
 }
@@ -161,10 +159,8 @@ if(doubleCounter <= DOUBLE_SAMPLE_MAX){
 	
 	if(doublePlotArr[0].length === 0){doublePlotArr[0] = [formatTime(lastTime),studentNumberFromDouble]}
 	else {appendArr([formatTime(lastTime), studentNumberFromDouble], doublePlotArr)}
-	plot(doublePlotArr)
-	if (studentNumberFromDouble > 0){
 	document.getElementById('camera2').innerHTML=studentNumberFromDouble
-	}
+	plot(doublePlotArr)
 
 	doubleCounter = doubleCounter + 2}
 }, REAL_INTERVAL)
