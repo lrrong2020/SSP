@@ -5,7 +5,7 @@ const SINGLE_SAMPLE_MAX = 2823
 const TS_CONVERTER_CONST = 1000
 const ONE_THOUSAND_MS = 1000
 const TWO_HOURS = 7200000
-const FIVE_MINUTE = 5
+const FIVE_MINUTE = 8
 const REAL_INTERVAL = ONE_THOUSAND_MS * FIVE_MINUTE
 
 var doubleCameraArr
@@ -19,8 +19,19 @@ console.log('loaded')
 
 
 //pop-up
-function openwindow(){
-		var modal = document.getElementById('myModal');
+function openwindowS(){
+		var modal = document.getElementById('myModalS');
+		var span = document.getElementsByClassName("close")[0];
+		var ok=document.getElementsByClassName("ok")[0];
+		var no=document.getElementsByClassName("no")[0];
+		modal.style.display = "block";
+		window.onclick = function(event) {
+			if (event.target == modal) modal.style.display = "none";
+		}
+	}
+//pop-up
+function openwindowD(){
+		var modal = document.getElementById('myModalD');
 		var span = document.getElementsByClassName("close")[0];
 		var ok=document.getElementsByClassName("ok")[0];
 		var no=document.getElementsByClassName("no")[0];
@@ -89,8 +100,50 @@ function formatTime(time){
 
 
 //plot
-function plot(arr){
-		var ctx = document.getElementById('myChart').getContext('2d')
+function plotS(arr){
+		var ctx = document.getElementById('myChartS').getContext('2d')
+		var lb = []
+		var dt = []
+		for(var i = 0;i < arr.length;i++){
+			lb.push(arr[i][0])
+			dt.push(arr[i][1])
+		}
+		myChartS = new Chart(ctx, {
+		type: 'line',
+		data: {
+			labels: lb,
+			datasets: [{
+				label: '# of Students',
+				data: dt,
+				backgroundColor: [
+					'rgba(52, 128, 235, 0.2)',
+				],
+				borderColor: [
+					'rgba(52, 128, 235, 1)',
+				],
+				borderWidth: 3
+			}]
+		},
+		options: {
+			scales: {
+				y: {	
+					suggestedMin: 0,
+					suggestedMax: 50,
+					beginAtZero: true
+				}
+			}
+		}
+	});
+
+setTimeout(function(){myChartS.destroy()}, 6000)
+		document.getElementById("loadingS").style.display = "none";
+		setTimeout(function(){document.getElementById("loadingS").style.display = "block";},6000)
+
+}
+
+//plotD
+function plotD(arr){
+		var ctx = document.getElementById('myChartD').getContext('2d')
 		var lb = []
 		var dt = []
 		for(var i = 0;i < arr.length;i++){
@@ -123,11 +176,10 @@ function plot(arr){
 			}
 		}
 	});
-setTimeout(function(){myChart.destroy()}, 3000)
-		document.getElementById("loading").style.display = "none";
-		setTimeout(function(){document.getElementById("loading").style.display = "block";},3000)
+setTimeout(function(){myChart.destroy()}, 6000)
+		document.getElementById("loadingD").style.display = "none";
+		setTimeout(function(){document.getElementById("loadingD").style.display = "block";},6000)
 }
-
 
 //present single camera array
 var singleCounter = SINGLE_SAMPLE_MIN
@@ -143,8 +195,9 @@ if(singleCounter <= SINGLE_SAMPLE_MAX){
 	document.getElementById('C2_6').innerHTML=studentNumberFromSingle
 	document.getElementById('C2_10').innerHTML=studentNumberFromSingle
 	document.getElementById('C2_13').innerHTML=studentNumberFromSingle
-	plot(singlePlotArr)
 	
+	setTimeout(plotS(singlePlotArr),6000)
+
 	singleCounter = singleCounter + 1
 }
 }, REAL_INTERVAL)
@@ -165,8 +218,9 @@ if(doubleCounter <= DOUBLE_SAMPLE_MAX){
 	document.getElementById('C2_1').innerHTML=studentNumberFromDouble
 	document.getElementById('L2_2').innerHTML=studentNumberFromDouble
 	document.getElementById('C2_9').innerHTML=studentNumberFromDouble
-	console.log(formatTime(lastTime))
-	plot(doublePlotArr)
+	plotD(doublePlotArr)
+
+
 
 	doubleCounter = doubleCounter + 2}
 }, REAL_INTERVAL)
